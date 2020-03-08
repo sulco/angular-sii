@@ -7,5 +7,5 @@ import { kebabCase } from "lodash";
   styleUrls: ["./app.component.css"]
 })
 export class AppComponent {
-  name = kebabCase("Hello from angular");
+  name = kebabCase("Hello from angular!");
 }
